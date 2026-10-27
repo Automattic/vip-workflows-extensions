@@ -1,6 +1,6 @@
 # VIP Workflows Extensions
 
-Example extensions for the **VIP Workflows** plugin from WordPress VIP.
+Example extensions for the [VIP Workflows](https://github.com/automattic/vip-workflows) plugin from WordPress VIP.
 
 ## These are examples, and they are unsupported
 
